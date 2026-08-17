@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <b>Transform PDFs & Lecture Notes into Interactive Knowledge Graphs, AI Practice Quizzes, 3D Active Recall Flashcards, and Personalized Study Recommendations.</b>
+  <b>An AI-powered study platform leveraging RAG & FAISS vector search to transform PDFs & notes into interactive Q&A, practice quizzes, 3D flashcards, and personalized analytics.</b>
 </p>
 
 </div>
